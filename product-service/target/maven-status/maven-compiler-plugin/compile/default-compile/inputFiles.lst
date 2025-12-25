@@ -1,0 +1,7 @@
+/home/tish/javaEcommerce/product-service/src/main/java/com/programming/techie/productservice/dto/ProductRequest.java
+/home/tish/javaEcommerce/product-service/src/main/java/com/programming/techie/productservice/repository/ProductRepository.java
+/home/tish/javaEcommerce/product-service/src/main/java/com/programming/techie/productservice/service/ProductService.java
+/home/tish/javaEcommerce/product-service/src/main/java/com/programming/techie/productservice/model/Product.java
+/home/tish/javaEcommerce/product-service/src/main/java/com/programming/techie/productservice/dto/ProductResponse.java
+/home/tish/javaEcommerce/product-service/src/main/java/com/programming/techie/productservice/controller/ProductController.java
+/home/tish/javaEcommerce/product-service/src/main/java/com/programming/techie/productservice/ProductServiceApplication.java

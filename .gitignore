@@ -1,1 +1,52 @@
-client_secret.txt
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.settings/
+.project
+.classpath
+.factorypath
+
+# VS Code
+.vscode/
+
+# Build artifacts
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Logs
+*.log
+logs/
+
+# Local configuration and verification files
+token.txt
+.env
+
+# Docker and volumes
+.docker/
+# If you are maping volumes to local folders, ignore them:
+# mysql_data/
+# mongo_data/
+
+# OS files
+.DS_Store
+Thumbs.db

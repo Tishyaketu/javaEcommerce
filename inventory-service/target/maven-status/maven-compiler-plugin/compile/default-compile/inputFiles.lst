@@ -1,0 +1,6 @@
+/home/tish/javaEcommerce/inventory-service/src/main/java/com/programming/techie/inventoryservice/model/Inventory.java
+/home/tish/javaEcommerce/inventory-service/src/main/java/com/programming/techie/inventoryservice/InventoryServiceApplication.java
+/home/tish/javaEcommerce/inventory-service/src/main/java/com/programming/techie/inventoryservice/service/InventoryService.java
+/home/tish/javaEcommerce/inventory-service/src/main/java/com/programming/techie/inventoryservice/repository/InventoryRepository.java
+/home/tish/javaEcommerce/inventory-service/src/main/java/com/programming/techie/inventoryservice/controller/InventoryController.java
+/home/tish/javaEcommerce/inventory-service/src/main/java/com/programming/techie/inventoryservice/dto/InventoryResponse.java
