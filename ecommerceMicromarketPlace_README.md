@@ -25,8 +25,7 @@ With a focus on scalability, resilience, and real-time interaction, Micro Market
 - **Auth Server:** For robust authentication and authorization mechanisms, KeyCloak is used to secure the microservices and protect sensitive data.
 - **Circuit Breaker:** Resilience4j is used to maintain system reliability by preventing cascading failures in microservices through circuit-breaking mechanisms.
 - **Message Broker:** Apache Kafka forms the backbone of Micro Marketplace's event-driven architecture, facilitating asynchronous notification for orders.
-- **Observability Stack:** Distributed tracing is implemented to monitor and troubleshoot requests as they traverse different microservices, using Micrometer for metrics and Zipkin for tracing. 
-   Moreover, Prometheus is used for collecting metrics, and Grafana for providing a rich dashboard for visualizing and analyzing application performance data.
+- **Observability Stack:** I implemented **Micrometer** as the instrumentation facade to collect metrics and traces, which are then exported to **Zipkin** for distributed tracing and **Prometheus** for monitoring. **Grafana** is used for visualizing these metrics.
 
 ### Tech Stack Used
 <div>

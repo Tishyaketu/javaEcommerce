@@ -1,7 +1,0 @@
-com/programming/techie/inventoryservice/controller/InventoryController.class
-com/programming/techie/inventoryservice/InventoryServiceApplication.class
-com/programming/techie/inventoryservice/dto/InventoryResponse.class
-com/programming/techie/inventoryservice/dto/InventoryResponse$InventoryResponseBuilder.class
-com/programming/techie/inventoryservice/model/Inventory.class
-com/programming/techie/inventoryservice/service/InventoryService.class
-com/programming/techie/inventoryservice/repository/InventoryRepository.class

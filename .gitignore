@@ -32,20 +32,22 @@ out/
 *.ear
 *.zip
 *.tar.gz
+*.class
 
 # Logs
 *.log
 logs/
 
 # Local configuration and verification files
+token_keycloak.txt
 token.txt
 .env
 
 # Docker and volumes
 .docker/
 # If you are maping volumes to local folders, ignore them:
-# mysql_data/
-# mongo_data/
+mysql_data/
+mongo_data/
 
 # OS files
 .DS_Store
